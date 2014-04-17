@@ -1,0 +1,6 @@
+#surefire
+#Wed Apr 16 23:06:04 PDT 2014
+user.dir=/Users/HasankaMac/Documents/GIT/GitRepo/SelenCH
+webdriver.chrome.driver=/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome
+localRepository=/Users/HasankaMac/.m2/repository
+basedir=/Users/HasankaMac/Documents/GIT/GitRepo/SelenCH
