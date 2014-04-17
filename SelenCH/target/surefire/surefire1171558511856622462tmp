@@ -1,0 +1,6 @@
+#surefire
+#Fri Apr 11 00:55:18 PDT 2014
+user.dir=/Users/HasankaMac/Documents/workspace/TestSeleniumProject01
+webdriver.chrome.driver=/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome
+localRepository=/Users/HasankaMac/.m2/repository
+basedir=/Users/HasankaMac/Documents/workspace/TestSeleniumProject01

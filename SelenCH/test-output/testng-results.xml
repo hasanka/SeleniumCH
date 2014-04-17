@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24959" started-at="2014-04-11T08:48:17Z" finished-at="2014-04-11T08:48:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24959" started-at="2014-04-11T08:48:17Z" finished-at="2014-04-11T08:48:42Z">
+      <class name="test.MaxaeroLoginTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:test.MaxaeroLoginTest@330878fe]" name="testLogin" duration-ms="13566" started-at="2014-04-11T01:48:17Z" description="log and test loged user" finished-at="2014-04-11T01:48:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLoginAndTitle()[pri:0, instance:test.MaxaeroLoginTest@330878fe]" name="testLoginAndTitle" duration-ms="11365" started-at="2014-04-11T01:48:30Z" description="log and test page title" finished-at="2014-04-11T01:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndTitle -->
+      </class> <!-- test.MaxaeroLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
